@@ -1,0 +1,9 @@
+Run simple python HTTP server
+Port number: 8900
+Serving HTTP on 0.0.0.0 port 8900 (http://0.0.0.0:8900/) ...
+
+Keyboard interrupt received, exiting.
+5.164.195.180 - - [07/Apr/2024 21:57:21] "GET / HTTP/1.1" 200 -
+188.120.225.17 - - [07/Apr/2024 21:58:13] "GET / HTTP/1.1" 200 -
+188.120.225.17 - - [07/Apr/2024 21:58:35] code 404, message File not found
+188.120.225.17 - - [07/Apr/2024 21:58:35] "GET /popka HTTP/1.1" 404 -

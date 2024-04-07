@@ -1,0 +1,81 @@
+    1  Mar 25 20:27:21 pwd
+    2  Mar 25 20:27:24 cd ..
+    3  Mar 25 20:27:30 ls 
+    4  Mar 25 20:27:33 cd mkapustin/
+    5  Mar 25 20:27:36 pwd
+    6  Apr 03 22:06:07 ls -a
+    7  Apr 03 22:06:09 clear
+    8  Apr 03 22:35:07 cls
+    9  Apr 03 22:35:08 clear
+   10  Apr 03 22:35:11 pwd
+   11  Apr 03 22:35:15 ls -a
+   12  Apr 03 22:35:28 cd 1lab
+   13  Apr 03 22:35:30 pwd
+   14  Apr 03 22:35:32 ls -a
+   15  Apr 03 22:35:37 cd ..
+   16  Apr 03 22:35:55 mkdir papki
+   17  Apr 03 22:35:58 cd papki
+   18  Apr 03 22:36:06 exit
+   19  Apr 03 22:37:38 pwd
+   20  Apr 03 22:37:39 ls 
+   21  Apr 03 22:37:42 cd papki
+   22  Apr 03 22:37:44 pwd
+   23  Apr 03 22:37:47 ls -a
+   24  Apr 03 22:41:02 mkdir papki1
+   25  Apr 03 22:41:58 unzip run_http_server.sh
+   26  Apr 03 22:42:03 ls
+   27  Apr 03 22:42:23 gunzip run_http_server.sh
+   28  Apr 03 22:43:01 rm -rf papki1
+   29  Apr 03 22:43:04 ls
+   30  Apr 03 22:43:15 cat run_http_server.sh 
+   31  Apr 03 22:45:02 chmod -x run_http_server.sh
+   32  Apr 03 22:45:05 ls
+   33  Apr 03 22:47:00 bash run_http_server.sh
+   34  Apr 03 22:56:37 bash -n run_http_server.sh
+   35  Apr 03 22:56:59 bash -v run_http_server.sh
+   36  Apr 03 22:57:22 apt-get install shellcheck
+   37  Apr 03 22:57:26 yes
+   38  Apr 03 22:57:40 clear
+   39  Apr 03 22:57:53 ls
+   40  Apr 03 22:58:00 shellcheck run_http_server.sh 
+   41  Apr 03 22:58:12 apt install shellcheck
+   42  Apr 03 22:58:51 ls -a
+   43  Apr 03 22:58:56 cd .
+   44  Apr 03 22:59:01 ls -a
+   45  Apr 03 22:59:13 bash run_http_server.sh
+   46  Apr 03 23:01:10 clear
+   47  Apr 03 23:01:12 ls -a
+   48  Apr 03 23:01:16 run
+   49  Apr 03 23:01:18 clear
+   50  Apr 03 23:01:20 ls -a
+   51  Apr 03 23:01:29 run_http_server/sh
+   52  Apr 03 23:01:37 cat run_http_server.sh 
+   53  Apr 03 23:01:54 bash run_http_server.sh 
+   54  Apr 03 23:02:08 nano run_http_server.sh 
+   55  Apr 03 23:02:33 cat run_http_server.sh 
+   56  Apr 03 23:02:37 bash run_http_server.sh 
+   57  Apr 03 23:13:54 exit
+   58  Apr 07 20:05:06 history
+   59  Apr 07 20:05:39 ps -la
+   60  Apr 07 20:05:53 pwd
+   61  Apr 07 20:06:00 ls
+   62  Apr 07 20:06:05 cd papki
+   63  Apr 07 20:06:07 ls
+   64  Apr 07 20:06:11 bash run_http_server.sh 
+   65  Apr 07 20:21:07 ps -la
+   66  Apr 07 20:21:55 bash run_http_server.sh 
+   67  Apr 07 20:44:36 touch log
+   68  Apr 07 20:44:43 sh run_http_server.sh>log
+   69  Apr 07 20:45:02 sh run_http_server.sh *>log
+   70  Apr 07 20:45:10 sh run_http_server.sh &>log
+   71  Apr 07 21:56:09 clear
+   72  Apr 07 21:57:28 cat log
+   73  Apr 07 21:57:32 ls
+   74  Apr 07 21:57:35 cd papki/
+   75  Apr 07 21:57:36 ls
+   76  Apr 07 21:57:40 cat log
+   77  Apr 07 21:58:13 curl 188.120.225.17:8900
+   78  Apr 07 21:58:35 curl 188.120.225.17:8900/popka
+   79  Apr 07 21:58:43 cat log
+   80  Apr 07 22:01:40 touch histor
+   81  Apr 07 22:01:55 history > histor
